@@ -28,7 +28,7 @@ tags:
 
 ## Link
 
-[text](http://www.google.com){google}
+[Test](http://www.google.com){googletest}
 
 ## Images
 
